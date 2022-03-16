@@ -1,6 +1,8 @@
-*.png
-*.jpg
-*.pth
 experiments_logdir
 models_saved 
 logs
+playground/vis
+playground/kitti2015_prediction
+*.png
+*.jpg
+*.pth
