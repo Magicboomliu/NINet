@@ -16,7 +16,7 @@ from utils.visualization import disp_error_image_func
 from dataloader.preprocess import scale_disp
 import skimage
 from utils.visual import disp_error_img,save_images
-from networks.EDNet.pretrain_affinity.pretrain_affinity_conf_nl import EDNet
+from networks.EDNet.pretrain_affinity.pretrain_affinity_conf_nl_ed import EDNet
 from networks.EDNet.normalE.normal_estimation import NormalNet
 from utils.common import count_parameters
 #from dataloader.kitti_dataloader_with_pse import StereoDataset

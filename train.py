@@ -5,7 +5,6 @@ import datetime
 import random
 import torch
 import logging
-import shutil
 import torch.nn as nn
 import torch.backends.cudnn as cudnn
 from utils.common import *
