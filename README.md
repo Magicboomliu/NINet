@@ -1,5 +1,5 @@
 # NINet
-### [Project Page](http://www.ok.sc.e.titech.ac.jp/res/DeepSM/acmmm22.html) | [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548312)
+### [Project Page](http://www.ok.sc.e.titech.ac.jp/res/DeepSM/acmmm22.html) | [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548312) | [Video](https://www.bilibili.com/video/BV1G8411a7tU/?spm_id_from=333.999.0.0&vd_source=e899c007573da1ac5f71125f2a409eaa)
 This repo is the official implementation of **[Digging Into Normal Incorporated Stereo Matching, ACM MM2022](https://dl.acm.org/doi/abs/10.1145/3503161.3548312)**  
 
 ![Alt text](http://www.ok.sc.e.titech.ac.jp/res/DeepSM/figure/acmmm22_00.png)
